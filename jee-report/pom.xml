@@ -26,6 +26,7 @@
       </dependency>
    </dependencies>
    <build>
+   	<finalName>jee-report</finalName>
       <resources>
          <resource>
             <directory>src/main/resources</directory>
